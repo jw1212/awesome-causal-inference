@@ -1,6 +1,6 @@
 # Awesome Causal Inference
 
-A curated reading list on causal inference, with an emphasis on seminal work and personal research interests. See [Awesome Causal Inference](https://github.com/matteocourthoud/awesome-causal-inference) for more causal inference resources.
+A curated reading list on causal inference, with an emphasis on seminal work and personal research interests. For more comprehensive resources on causal inference, see for example [Awesome Causal Inference](https://github.com/matteocourthoud/awesome-causal-inference).
 
 ## Table of Contents
 
