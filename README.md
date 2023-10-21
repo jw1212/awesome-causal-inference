@@ -44,19 +44,28 @@ A curated reading list on causal inference and causal machine learning, highligh
 
 ## Proximal Causal Inference
 
+- [An Introduction to Proximal Causal Learning](https://arxiv.org/pdf/2009.10982.pdf) - Tchetgen Tchetgen, Ying, Cui, Shi, Miao (2020)
+- [A Selective Review of Negative Control Methods in Epidemiology](https://link.springer.com/article/10.1007/s40471-020-00243-4) - Shi, Miao, Tchetgen Tchetgen (2020)
+  
 ## Spatiotemporal Causal Inference
 
 ### Spatial Confounding
 
+- [A Review of Spatial Causal Inference Methods for Environmental and Epidemiological Applications](https://onlinelibrary.wiley.com/doi/full/10.1111/insr.12452) - Reich et al. (2021)
+
 ### Panel Data
+
+- [Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746) - Abadie, Diamond, Hainmueller (2010)
+
 
 ## Heterogeneous Treatment Effects
 
 - [Quasi-Oracle Estimation of Heterogeneous Treatment Effects](https://arxiv.org/pdf/1712.04912.pdf) - Nie and Wager (2020)
+- [Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects (with Discussion)](https://projecteuclid.org/journals/bayesian-analysis/volume-15/issue-3/Bayesian-Regression-Tree-Models-for-Causal-Inference--Regularization-Confounding/10.1214/19-BA1195.full) - Hahn, Murray, Carvalho (2020)
 
 - [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/pdf/1706.03461.pdf) - Künzel, Sekhon, Bickel, Yu (2019)
-
+- [Automated versus Do-It-Yourself Methods for Causal Inference: Lessons Learned from a Data Analysis Competition](https://projecteuclid.org/journals/statistical-science/volume-34/issue-1/Automated-versus-Do-It-Yourself-Methods-for-Causal-Inference/10.1214/18-STS667.full) - Dorie et al. (2019)
 - [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839) - Wager and Athey (2018)
-
+- [Estimating individual treatment effect: generalization bounds and algorithms](https://proceedings.mlr.press/v70/shalit17a.html) - Shalit, Johansson, Sontag (2017)
 - [Double/Debiased Machine Learning for Treatment and Structural Parameters](https://arxiv.org/pdf/1608.00060.pdf) - Chernozhukov, Chetverikov, Demirer, Duflo, Hansen, Newey, Robins (2017)
-
+- [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162) - Hill (2011)
