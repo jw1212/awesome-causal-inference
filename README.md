@@ -6,12 +6,12 @@ A curated personal reading list on causal inference and causal machine learning,
 
 - [Books](#books)
 - [Fundamental Works and Literature Reviews](#fundamental-works-and-literature-reviews)
+- [Heterogeneous Treatment Effects](#heterogeneous-treatment-effects)
 - [Sensitivity Analysis](#sensitivity-analysis)
 - [Proximal Causal Inference](#proximal-causal-inference)
 - [Spatiotemporal Causal Inference](#spatiotemporal-causal-inference)
   - [Spatial Confounding](#spatial-confounding)
   - [Panel Data](#panel-data)
-- [Heterogeneous Treatment Effects](#heterogeneous-treatment-effects)
 - [Causal Representation Learning](#causal-representation-learning)
 
 ## Books
@@ -31,6 +31,24 @@ A curated personal reading list on causal inference and causal machine learning,
 - [Toward Causal Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9363924) - Schölkopf et al. (2021)
   
 - [The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://academic.oup.com/biomet/article/70/1/41/240879) - Rosenbaum and Rubin (1983)
+
+## Heterogeneous Treatment Effects
+
+- [Quasi-Oracle Estimation of Heterogeneous Treatment Effects](https://arxiv.org/pdf/1712.04912.pdf) - Nie and Wager (2020)
+  
+- [Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects (with Discussion)](https://projecteuclid.org/journals/bayesian-analysis/volume-15/issue-3/Bayesian-Regression-Tree-Models-for-Causal-Inference--Regularization-Confounding/10.1214/19-BA1195.full) - Hahn, Murray, Carvalho (2020)
+  
+- [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/pdf/1706.03461.pdf) - Künzel, Sekhon, Bickel, Yu (2019)
+  
+- [Automated versus Do-It-Yourself Methods for Causal Inference: Lessons Learned from a Data Analysis Competition](https://projecteuclid.org/journals/statistical-science/volume-34/issue-1/Automated-versus-Do-It-Yourself-Methods-for-Causal-Inference/10.1214/18-STS667.full) - Dorie et al. (2019)
+  
+- [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839) - Wager and Athey (2018)
+  
+- [Estimating individual treatment effect: generalization bounds and algorithms](https://proceedings.mlr.press/v70/shalit17a.html) - Shalit, Johansson, Sontag (2017)
+  
+- [Double/Debiased Machine Learning for Treatment and Structural Parameters](https://arxiv.org/pdf/1608.00060.pdf) - Chernozhukov, Chetverikov, Demirer, Duflo, Hansen, Newey, Robins (2017)
+  
+- [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162) - Hill (2011)
 
 ## Sensitivity Analysis
   
@@ -68,23 +86,8 @@ A curated personal reading list on causal inference and causal machine learning,
 
 - [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20191450) - Abadie (2021)
 
-## Heterogeneous Treatment Effects
-
-- [Quasi-Oracle Estimation of Heterogeneous Treatment Effects](https://arxiv.org/pdf/1712.04912.pdf) - Nie and Wager (2020)
-  
-- [Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects (with Discussion)](https://projecteuclid.org/journals/bayesian-analysis/volume-15/issue-3/Bayesian-Regression-Tree-Models-for-Causal-Inference--Regularization-Confounding/10.1214/19-BA1195.full) - Hahn, Murray, Carvalho (2020)
-  
-- [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/pdf/1706.03461.pdf) - Künzel, Sekhon, Bickel, Yu (2019)
-  
-- [Automated versus Do-It-Yourself Methods for Causal Inference: Lessons Learned from a Data Analysis Competition](https://projecteuclid.org/journals/statistical-science/volume-34/issue-1/Automated-versus-Do-It-Yourself-Methods-for-Causal-Inference/10.1214/18-STS667.full) - Dorie et al. (2019)
-  
-- [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839) - Wager and Athey (2018)
-  
-- [Estimating individual treatment effect: generalization bounds and algorithms](https://proceedings.mlr.press/v70/shalit17a.html) - Shalit, Johansson, Sontag (2017)
-  
-- [Double/Debiased Machine Learning for Treatment and Structural Parameters](https://arxiv.org/pdf/1608.00060.pdf) - Chernozhukov, Chetverikov, Demirer, Duflo, Hansen, Newey, Robins (2017)
-  
-- [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162) - Hill (2011)
-
 ## Causal Representation Learning
 
+- [Desiderata for Representation Learning: A Causal Perspective](https://arxiv.org/pdf/2109.03795.pdf) - Wang and Jordan (2021)
+
+  
