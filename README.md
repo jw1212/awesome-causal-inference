@@ -11,6 +11,7 @@ A curated personal reading list on causal inference and causal machine learning,
   - [Spatial Confounding](#spatial-confounding)
   - [Panel Data](#panel-data)
 - [Heterogeneous Treatment Effects](#heterogeneous-treatment-effects)
+- [Causal Representation Learning](#causal-representation-learning)
 
 ## Books
 
@@ -19,6 +20,8 @@ A curated personal reading list on causal inference and causal machine learning,
 - [Causal Inference in Statistics: A Primer](https://www.wiley.com/en-us/Causal+Inference+in+Statistics%3A+A+Primer-p-9781119186847) - Pearl, Glymour, Jewell (2016)
 
 - [Causal Inference for Statistics, Social, and Biomedical Sciences](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB) - Imbens, Rubin (2015)
+
+- [Data Analysis Using Regression and Multilevel/Hierarchical Models](https://www.cambridge.org/highereducation/books/data-analysis-using-regression-and-multilevel-hierarchical-models/32A29531C7FD730C3A68951A17C9D983#overview) - Gelman, Hill (2006)
 
 ## Foundamental Work and Reviews
  
@@ -62,6 +65,7 @@ A curated personal reading list on causal inference and causal machine learning,
 
 - [Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746) - Abadie, Diamond, Hainmueller (2010)
 
+- [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20191450) - Abadie (2021)
 
 ## Heterogeneous Treatment Effects
 
@@ -80,3 +84,6 @@ A curated personal reading list on causal inference and causal machine learning,
 - [Double/Debiased Machine Learning for Treatment and Structural Parameters](https://arxiv.org/pdf/1608.00060.pdf) - Chernozhukov, Chetverikov, Demirer, Duflo, Hansen, Newey, Robins (2017)
   
 - [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162) - Hill (2011)
+
+## Causal Representation Learning
+
