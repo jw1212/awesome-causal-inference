@@ -29,10 +29,10 @@ A curated personal reading list on causal inference and causal machine learning,
 - [The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://academic.oup.com/biomet/article/70/1/41/240879) - Rosenbaum and Rubin (1983)
 
 ## Sensitivity Analysis
-
-- [Long Story Short: Omitted Variable Bias in Causal Machine Learning](https://www.nber.org/system/files/working_papers/w30302/w30302.pdf) - Chernozhukov, Cinelli, Newey, Sharma, Syrgkanis (2022)
   
 - [Sensitivity Analysis of Individual Treatment Effects: A Robust Conformal Inference Approach](https://arxiv.org/pdf/2111.12161.pdf) - Jin, Ren, Candès (2022)
+
+- [Long Story Short: Omitted Variable Bias in Causal Machine Learning](https://www.nber.org/system/files/working_papers/w30302/w30302.pdf) - Chernozhukov, Cinelli, Newey, Sharma, Syrgkanis (2022)
 
 - [Making Sense of Sensitivity: Extending Omitted Variable Bias](https://academic.oup.com/jrsssb/article/82/1/39/7056023) - Cinelli and Hazlett (2020)
 
