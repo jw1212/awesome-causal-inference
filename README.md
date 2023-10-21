@@ -36,7 +36,7 @@ A curated reading list on causal inference and causal machine learning, highligh
 
 - [Sensitivity Analysis in Observational Research: Introducing the E-Value](https://www.acpjournals.org/doi/full/10.7326/M16-2607) - VanderWeele and Ding (2017)
 
-- [A Distributional Approach for Causal Inference Using Propensity Scores](https://www.tandfonline.com/doi/abs/10.1198/016214506000000023) - Tan (2006)`
+- [A Distributional Approach for Causal Inference Using Propensity Scores](https://www.tandfonline.com/doi/abs/10.1198/016214506000000023) - Tan (2006)
 
 - [Assessing Sensitivity to an Unobserved Binary Covariate in an Observational Study with Binary Outcome](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1983.tb01242.x) - Rosenbaum and Rubin (1983)
 
@@ -62,7 +62,6 @@ A curated reading list on causal inference and causal machine learning, highligh
 
 - [Quasi-Oracle Estimation of Heterogeneous Treatment Effects](https://arxiv.org/pdf/1712.04912.pdf) - Nie and Wager (2020)
 - [Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects (with Discussion)](https://projecteuclid.org/journals/bayesian-analysis/volume-15/issue-3/Bayesian-Regression-Tree-Models-for-Causal-Inference--Regularization-Confounding/10.1214/19-BA1195.full) - Hahn, Murray, Carvalho (2020)
-
 - [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/pdf/1706.03461.pdf) - Künzel, Sekhon, Bickel, Yu (2019)
 - [Automated versus Do-It-Yourself Methods for Causal Inference: Lessons Learned from a Data Analysis Competition](https://projecteuclid.org/journals/statistical-science/volume-34/issue-1/Automated-versus-Do-It-Yourself-Methods-for-Causal-Inference/10.1214/18-STS667.full) - Dorie et al. (2019)
 - [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839) - Wager and Athey (2018)
