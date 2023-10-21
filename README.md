@@ -5,6 +5,7 @@ A curated personal reading list on causal inference and causal machine learning,
 ## Table of Contents
 
 - [Books](#books)
+- [Fundamental Works and Literature Reviews](#fundamental-works-and-literature-reviews)
 - [Sensitivity Analysis](#sensitivity-analysis)
 - [Proximal Causal Inference](#proximal-causal-inference)
 - [Spatiotemporal Causal Inference](#spatiotemporal-causal-inference)
@@ -23,7 +24,7 @@ A curated personal reading list on causal inference and causal machine learning,
 
 - [Data Analysis Using Regression and Multilevel/Hierarchical Models](https://www.cambridge.org/highereducation/books/data-analysis-using-regression-and-multilevel-hierarchical-models/32A29531C7FD730C3A68951A17C9D983#overview) - Gelman, Hill (2006)
 
-## Foundamental Work and Reviews
+## Fundamental Works and Literature Reviews
  
 - [Bayesian causal inference: a critical review](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2022.0153) - Li, Ding, Mealli (2022)
   
