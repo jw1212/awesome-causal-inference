@@ -1,6 +1,6 @@
 # Awesome Causal Inference
 
-A curated reading list on causal inference and causal machine learning, highlighting a selection of seminal works across diverse domains and methods for addressing unobserved confounding. For more comprehensive resources on causal inference, see for example [Awesome Causal Inference](https://github.com/matteocourthoud/awesome-causal-inference).
+A curated reading list on causal inference and causal machine learning, highlighting a selection of seminal works and methods for addressing unobserved confounding. For more comprehensive resources on causal inference, see for example [Awesome Causal Inference](https://github.com/matteocourthoud/awesome-causal-inference).
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@ A curated reading list on causal inference and causal machine learning, highligh
 - [Proximal Causal Inference](#proximal-causal-inference)
 - [Spatiotemporal Causal Inference](#spatiotemporal-causal-inference)
   - [Spatial Confounding](#spatial-confounding)
-  - [Panal Data](#panal-data)
+  - [Panel Data](#panel-data)
 - [Heterogeneous Treatment Effects](#heterogeneous-treatment-effects)
 
 ## Books
@@ -21,7 +21,9 @@ A curated reading list on causal inference and causal machine learning, highligh
 - [Causal Inference for Statistics, Social, and Biomedical Sciences](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB) - Imbens, Rubin (2015)
 
 ## Foundamental Work and Reviews
-
+ 
+- [Bayesian causal inference: a critical review](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2022.0153) - Li, Ding, Mealli (2022)
+- [Toward Causal Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9363924) - Schölkopf et al. (2021)
 - [The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://academic.oup.com/biomet/article/70/1/41/240879) - Rosenbaum and Rubin (1983)
 
 ## Sensitivity Analysis
@@ -46,7 +48,7 @@ A curated reading list on causal inference and causal machine learning, highligh
 
 ### Spatial Confounding
 
-### Panal Data
+### Panel Data
 
 ## Heterogeneous Treatment Effects
 
