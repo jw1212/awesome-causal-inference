@@ -1,6 +1,6 @@
 # Awesome Causal Inference
 
-A curated reading list on causal inference and causal machine learning, highlighting a selection of seminal works and methods for addressing unobserved confounding. For more comprehensive resources on causal inference, see for example [Awesome Causal Inference](https://github.com/matteocourthoud/awesome-causal-inference).
+A curated personal reading list on causal inference and causal machine learning, highlighting a selection of seminal works and methods for addressing unobserved confounding. For more comprehensive resources on causal inference, see for example [Awesome Causal Inference](https://github.com/matteocourthoud/awesome-causal-inference).
 
 ## Table of Contents
 
@@ -23,12 +23,16 @@ A curated reading list on causal inference and causal machine learning, highligh
 ## Foundamental Work and Reviews
  
 - [Bayesian causal inference: a critical review](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2022.0153) - Li, Ding, Mealli (2022)
+  
 - [Toward Causal Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9363924) - Schölkopf et al. (2021)
+  
 - [The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://academic.oup.com/biomet/article/70/1/41/240879) - Rosenbaum and Rubin (1983)
 
 ## Sensitivity Analysis
 
 - [Long Story Short: Omitted Variable Bias in Causal Machine Learning](https://www.nber.org/system/files/working_papers/w30302/w30302.pdf) - Chernozhukov, Cinelli, Newey, Sharma, Syrgkanis (2022)
+  
+- [Sensitivity Analysis of Individual Treatment Effects: A Robust Conformal Inference Approach](https://arxiv.org/pdf/2111.12161.pdf) - Jin, Ren, Cand$\'e$s (2022)
 
 - [Making Sense of Sensitivity: Extending Omitted Variable Bias](https://academic.oup.com/jrsssb/article/82/1/39/7056023) - Cinelli and Hazlett (2020)
 
@@ -45,6 +49,7 @@ A curated reading list on causal inference and causal machine learning, highligh
 ## Proximal Causal Inference
 
 - [An Introduction to Proximal Causal Learning](https://arxiv.org/pdf/2009.10982.pdf) - Tchetgen Tchetgen, Ying, Cui, Shi, Miao (2020)
+  
 - [A Selective Review of Negative Control Methods in Epidemiology](https://link.springer.com/article/10.1007/s40471-020-00243-4) - Shi, Miao, Tchetgen Tchetgen (2020)
   
 ## Spatiotemporal Causal Inference
@@ -61,10 +66,17 @@ A curated reading list on causal inference and causal machine learning, highligh
 ## Heterogeneous Treatment Effects
 
 - [Quasi-Oracle Estimation of Heterogeneous Treatment Effects](https://arxiv.org/pdf/1712.04912.pdf) - Nie and Wager (2020)
+  
 - [Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects (with Discussion)](https://projecteuclid.org/journals/bayesian-analysis/volume-15/issue-3/Bayesian-Regression-Tree-Models-for-Causal-Inference--Regularization-Confounding/10.1214/19-BA1195.full) - Hahn, Murray, Carvalho (2020)
+  
 - [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/pdf/1706.03461.pdf) - Künzel, Sekhon, Bickel, Yu (2019)
+  
 - [Automated versus Do-It-Yourself Methods for Causal Inference: Lessons Learned from a Data Analysis Competition](https://projecteuclid.org/journals/statistical-science/volume-34/issue-1/Automated-versus-Do-It-Yourself-Methods-for-Causal-Inference/10.1214/18-STS667.full) - Dorie et al. (2019)
+  
 - [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839) - Wager and Athey (2018)
+  
 - [Estimating individual treatment effect: generalization bounds and algorithms](https://proceedings.mlr.press/v70/shalit17a.html) - Shalit, Johansson, Sontag (2017)
+  
 - [Double/Debiased Machine Learning for Treatment and Structural Parameters](https://arxiv.org/pdf/1608.00060.pdf) - Chernozhukov, Chetverikov, Demirer, Duflo, Hansen, Newey, Robins (2017)
+  
 - [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162) - Hill (2011)
