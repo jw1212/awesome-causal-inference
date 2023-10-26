@@ -1,6 +1,6 @@
 # Awesome Causal Inference
 
-A curated personal reading list on causal inference and causal machine learning, highlighting a selection of seminal works and methods for addressing unobserved confounding. For more comprehensive resources on causal inference, see for example [Awesome Causal Inference](https://github.com/matteocourthoud/awesome-causal-inference).
+A curated reading list of papers on causal inference and learning, based on what I read during my Ph.D., emphasizing seminal works and methods for addressing unobserved confounding. For more comprehensive resources on causal inference, see for example [Awesome Causal Inference](https://github.com/matteocourthoud/awesome-causal-inference).
 
 ## Table of Contents
 
@@ -9,10 +9,10 @@ A curated personal reading list on causal inference and causal machine learning,
 - [Heterogeneous Treatment Effects](#heterogeneous-treatment-effects)
 - [Sensitivity Analysis](#sensitivity-analysis)
 - [Proximal Causal Inference](#proximal-causal-inference)
-- [Spatiotemporal Causal Inference](#spatiotemporal-causal-inference)
-  - [Spatial Confounding](#spatial-confounding)
-  - [Panel Data](#panel-data)
+- [Spatial Confounding](#spatial-confounding)
+- [Panel Data](#panel-data)
 - [Causal Representation Learning](#causal-representation-learning)
+- [Recommender Systems](#recommender-systems)
 
 ## Books
 
@@ -73,21 +73,29 @@ A curated personal reading list on causal inference and causal machine learning,
 - [An Introduction to Proximal Causal Learning](https://arxiv.org/pdf/2009.10982.pdf) - Tchetgen Tchetgen, Ying, Cui, Shi, Miao (2020)
   
 - [A Selective Review of Negative Control Methods in Epidemiology](https://link.springer.com/article/10.1007/s40471-020-00243-4) - Shi, Miao, Tchetgen Tchetgen (2020)
-  
-## Spatiotemporal Causal Inference
 
-### Spatial Confounding
+## Spatial Confounding
+
+- [A Causal Inference Framework for Spatial Confounding](https://arxiv.org/pdf/2112.14946.pdf) - Gilbert, Datta, Casey, Ogburn (2023)
+
+- [Spatial+: A novel approach to spatial confounding](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13656) - Dupont, Wood, Augustin (2022)
 
 - [A Review of Spatial Causal Inference Methods for Environmental and Epidemiological Applications](https://onlinelibrary.wiley.com/doi/full/10.1111/insr.12452) - Reich et al. (2021)
 
-### Panel Data
+## Panel Data
 
-- [Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746) - Abadie, Diamond, Hainmueller (2010)
+- [Estimating the effects of a California gun control program with Multitask Gaussian Processes](https://arxiv.org/pdf/2110.07006.pdf) - Ben-Michael, Arbour, Feller, Franks, Raphael (2023)
 
 - [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20191450) - Abadie (2021)
+
+- [The Augmented Synthetic Control Method](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1929245?scroll=top&needAccess=true) - Ben-Michael, Feller, Rothstein (2021)
+  
+- [Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746) - Abadie, Diamond, Hainmueller (2010)
 
 ## Causal Representation Learning
 
 - [Desiderata for Representation Learning: A Causal Perspective](https://arxiv.org/pdf/2109.03795.pdf) - Wang and Jordan (2021)
+
+## Recommender Systems
 
   
