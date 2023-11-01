@@ -67,6 +67,8 @@ A curated reading list of papers on causal inference and learning. For more comp
   
 - [A Selective Review of Negative Control Methods in Epidemiology](https://link.springer.com/article/10.1007/s40471-020-00243-4) - Shi, Miao, Tchetgen Tchetgen (2020)
 
+- [Identifying Causal Effects With Proxy Variables of an Unmeasured Confounder](https://arxiv.org/pdf/1609.08816.pdf) - Miao, Geng, Tchetgen Tchetgen (2018)
+
 ## Spatial Confounding
 
 - [A Causal Inference Framework for Spatial Confounding](https://arxiv.org/pdf/2112.14946.pdf) - Gilbert, Datta, Casey, Ogburn (2023)
