@@ -11,7 +11,7 @@ A curated reading list of papers on causal inference and learning. For more comp
 - [Spatial Confounding](#spatial-confounding)
 - [Panel Data](#panel-data)
 - [Causal Representation Learning and Invariance](#causal-representation-learning-and-invariance)
-- [Misc](#misc.)
+- [Misc](#misc)
 
 ## Books
 
@@ -102,7 +102,7 @@ A curated reading list of papers on causal inference and learning. For more comp
 
 - [Causal Inference by using Invariant Prediction: Identification and Confidence Intervals](https://academic.oup.com/jrsssb/article/78/5/947/7040653) - Peters, Bühlmann, Meinshausen (2016)
 
-## Misc.
+## Misc
  
 - [Bayesian causal inference: a critical review](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2022.0153) - Li, Ding, Mealli (2022)
 
