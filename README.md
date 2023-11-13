@@ -89,6 +89,8 @@ A curated reading list of papers on causal inference and learning. For more comp
 - [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20191450) - Abadie (2021)
 
 - [The Augmented Synthetic Control Method](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1929245?scroll=top&needAccess=true) - Ben-Michael, Feller, Rothstein (2021)
+
+- [Inferring causal impact using Bayesian structural time-series models](https://arxiv.org/pdf/1506.00356.pdf) - Brodersen et al. (2015), [CausalImpact package](https://google.github.io/CausalImpact/CausalImpact.html)
   
 - [Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746) - Abadie, Diamond, Hainmueller (2010)
 
@@ -108,6 +110,8 @@ A curated reading list of papers on causal inference and learning. For more comp
  
 - [Bayesian causal inference: a critical review](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2022.0153) - Li, Ding, Mealli (2022)
 
+- [A Crash Course in Good and Bad Controls](https://journals.sagepub.com/doi/full/10.1177/00491241221099552) - Cinelli, Forney, Pearl (2022)
+  
 - [Algorithmic Fairness: Choices, Assumptions, and Definitions](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-042720-125902) - Mitchell et al. (2021)
 
 - [Causal Inference using Gaussian Processes with Structured Latent Confounders](https://proceedings.mlr.press/v119/witty20a.html) - Witty et al. (2020)
