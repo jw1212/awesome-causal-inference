@@ -15,7 +15,9 @@ A curated reading list of papers on causal inference and learning. For more comp
 
 ## Books
 
-- [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) - Hernán, Robins (2023)
+- [A First Course in Causal Inference](https://arxiv.org/pdf/2305.18793.pdf) - Ding (2023)
+
+- [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) - Hernán, Robins (2020)
 
 - [Causal Inference in Statistics: A Primer](https://www.wiley.com/en-us/Causal+Inference+in+Statistics%3A+A+Primer-p-9781119186847) - Pearl, Glymour, Jewell (2016)
 
